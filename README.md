@@ -1,1 +1,2 @@
 # Movie-Recommendation-System
+Movie recommender systems are intelligent algorithms that suggest movies for users to watch based on their previous viewing behavior & preferences. These systems analyze data such as users' ratings, reviews, & viewing histories to generate personalized recommendations. Movie recommender system has revolutionized the way people discover & consume movies, enabling users to navigate through vast catalogs of films more efficiently. Recommender systems have two main categories: content-based & collaborative filtering. 
